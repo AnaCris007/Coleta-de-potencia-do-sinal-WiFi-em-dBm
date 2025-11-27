@@ -49,7 +49,7 @@ Este projeto consiste em um sistema IoT para monitorar e publicar em tempo real 
 - Assinar o tópico MQTT publicado pelo ESP32.
 - Habilitar atualização em tempo real para observar variações instantâneas.
 
-![Gráfico Tempo × dBm](../grafico.png)
+![Gráfico Tempo × dBm](grafico.png)
 
 ## Experimento: Gaiola de Faraday (Elevador)
 
